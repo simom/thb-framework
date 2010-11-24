@@ -1,7 +1,6 @@
 <?php
 
 include "THBF/Init.php";
-
 /**
  * TwentyTen functions and definitions
  *
